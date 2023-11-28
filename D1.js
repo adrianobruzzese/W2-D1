@@ -23,10 +23,10 @@ let object ={}
 // tipo null --> dato usato per definire l'assenza esplicita e volontaria di dati
 //tipo undefined --> dato usato per settare il valore di una variabile non ancora definita o inesistente
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* SCRIVI QUI LA TUA RISPOSTA */ 
 
 /* ESERCIZIO 2
- Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
+ Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */

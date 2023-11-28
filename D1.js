@@ -20,6 +20,8 @@ let y = 2;
 let array =[]
 //tipo oggetto --> dato che può contenere un intero oggetto. Per essere definito i valori devono essere compresi tra due parentesi graffe
 let object ={}
+// tipo null --> dato usato per definire l'assenza esplicita e volontaria di dati
+//tipo undefined --> dato usato per settare il valore di una variabile non ancora definita o inesistente
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
